@@ -1,35 +1,9 @@
-## Welcome to GitHub Pages
+## Blog Bastka - Witaj
 
-You can use the [editor on GitHub](https://github.com/Bastek14/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Cześć, jestem Bastek, mam 6 lat i lubię grać w gry. Witam na moim blogu, będą tu same fajne rzeczy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Among Us
 
-### Blog Sebastiana
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8d6c1OXqKoQ59yi4gaQAW2vJVFnCSyF39MQ&usqp=CAU)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bastek14/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Grałem ostatnio z moim kolegą Hubertem w Among Us. Kilku graczy spotyka się na statku kosmicznym i wykonuje różne misje. Najbardziej podobało mi się w tej grze, że nikt nie wie kto jest zły i trzeba go rozpoznać, żeby wygrać. Chyba że samemu jest się złym wtedy trzeba zniszczyć statek albo innych zawodników zanim cię rozpoznają.
